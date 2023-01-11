@@ -19,3 +19,7 @@ most common trip from start to end (i.e., most frequent combination of start sta
 
 total travel time
 average travel time
+
+CITY_DATA = {'chicago': 'chicago.csv',
+              'new york city': 'new_york_city.csv',
+              'washington': 'washington.csv'}
